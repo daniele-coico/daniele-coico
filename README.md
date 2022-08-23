@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @daniele-coico and I'm a junior developer. I started programming for fun at 12, but since 16 I got more involved in programming with some project.
 Programming languages that I know:
-  C# (intermediate)
-  VB.NET (intermediate)
-  C (basic)
-  Java (basic)
-  Assembly (basic)
+  - C#
+  - VB.NET 
+  - a little bit of C, Java, Assembly
 
 Also I have some knowledge about Linux, database, networking basic.
 
