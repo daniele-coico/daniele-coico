@@ -6,7 +6,7 @@ Programming languages that I know:
 
 Also I have some knowledge about Linux, database, networking basic.
 
-- Currently working for OMP Group based at Busano, Italy.
+- Currently wokring on own projects and studying at the University of Turin
 - More about me:
 Calisthenic athlete, guitar/piano player and nerd.
 - 📫 You can reach me via email (daniele.coico00@gmail.com)
